@@ -30,4 +30,7 @@ class TextAnalyzer
     end
 
     biggest = {arr2.keys.first => arr2.values.first}
+
+    arr2.each do |key, value|
+    end
   end
